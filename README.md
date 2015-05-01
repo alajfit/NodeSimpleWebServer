@@ -1,4 +1,5 @@
-# NodeSimpleWebServer
-Node - Simple Web Server
+# Node Simple Web Server
+<h2>Simple Web Server Built In Node</h2>
+<h4>This is also built using the HTML 5 Boilerplate</h4>
 
-This is a basic Server that will server HTML pages
+The aim of this project is to create a simple server to ser HTML pages from Node
